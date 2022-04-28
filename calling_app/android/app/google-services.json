@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "772153187177",
+    "project_id": "family-call-586fb",
+    "storage_bucket": "family-call-586fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772153187177:android:42ca4c67f2a676f6ff3bf8",
+        "android_client_info": {
+          "package_name": "com.example.calling_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772153187177-55agj162jj38ac4eo98slq3pin0880bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDds3NEAoHa_EA8JFWuiujX7lgSfyDGcjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772153187177-55agj162jj38ac4eo98slq3pin0880bd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

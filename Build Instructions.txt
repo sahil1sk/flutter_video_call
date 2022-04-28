@@ -1,0 +1,22 @@
+
+## With Null Safety
+
+=> flutter clean
+=> flutter build apk
+
+
+# With no null safety
+=> flutter clean
+=> flutter build apk                (Alway follow this step also)
+=> flutter build apk --no-sound-null-safety
+
+=> For building small size apk
+flutter build apk --split-per-abi --no-sound-null-safety
+
+# Path where apk exists
+# app_name\build\app\outputs\flutter-apk
+
+
+## To run windows 
+for that => flutter create . (to add desktop capacity)
+=> flutter run -d windows
